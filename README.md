@@ -1,5 +1,6 @@
-# Encrypted Poll (Zama Builder Track)
+# Encrypted Poll 
 
 Time-locked FHE-based voting dApp demo. Full instructions and demo script included.
+
 
 See Submission Guide in README for step-by-step deployment, testing, frontend usage, and demo.
